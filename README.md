@@ -1,6 +1,7 @@
-<div align=center>
-[![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=seoyeon%20&fontSize=90)]
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=seoyeon&fontSize=90" alt="header" />
 </div>
+
 <!--
 **stella08312/stella08312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
