@@ -19,7 +19,6 @@ Multimedia Security, Computer Vision, Digital Forensics
 cyberohx0831@gmail.com
 <br/>
 
-
 ###  :keyboard: Language
 <div style="text-align: center;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -29,6 +28,7 @@ cyberohx0831@gmail.com
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" alt="Pandas Badge">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch Badge">
 </div>
+<br/>
 
 
 ### :trophy: Competitions
@@ -70,7 +70,7 @@ cyberohx0831@gmail.com
         </tr>
     </tbody>
 </table>
-
+<br/>
 
 ### :bookmark_tabs: Paper
 <table>
@@ -107,13 +107,9 @@ cyberohx0831@gmail.com
         </tr>
     </tbody>
 </table>
-
+<br/>
  
 
  
-  <br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+
 
