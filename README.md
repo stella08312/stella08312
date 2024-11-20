@@ -28,41 +28,6 @@ cyberohx0831@gmail.com
 </div>
 
 ### :trophy: Competitions
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 80%;
-            margin: 20px auto;
-            font-family: Arial, sans-serif;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 10px;
-            text-align: center;
-        }
-        th {
-            background-color: #f4f4f4;
-            font-weight: bold;
-        }
-        tr:nth-child(even) {
-            background-color: #f9f9f9;
-        }
-        tr:hover {
-            background-color: #f1f1f1;
-        }
-        a {
-            color: #007BFF;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-
-<h2 style="text-align: center;">Competition Awards</h2>
-
 <table>
     <thead>
         <tr>
@@ -97,9 +62,6 @@ cyberohx0831@gmail.com
         </tr>
     </tbody>
 </table>
-
-</body>
-</html>
 
 
 ### :bookmark_tabs: Paper
