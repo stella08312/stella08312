@@ -13,7 +13,9 @@
 
 ####  :mailbox_with_mail: Contact
 cyberohx0831@gmail.com
-  
+
+#### :star: Interest
+
 ####  :keyboard: Language
   
 <div style="text-align: center;">
@@ -23,12 +25,15 @@ cyberohx0831@gmail.com
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white" alt="Numpy Badge">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" alt="Pandas Badge">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch Badge">
-
-
 </div>
 
+
+#### :trophy: Competitions
+
+#### :bookmark_tabs: Paper
+
  
-#### :pencil2: Study log
+
  
   <br/>
   
