@@ -33,6 +33,7 @@ cyberohx0831@gmail.com
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Competition Awards</title>
     <style>
         table {
             border-collapse: collapse;
@@ -72,8 +73,8 @@ cyberohx0831@gmail.com
     <thead>
         <tr>
             <th>Organizer</th>
-            <th>Name</th>
-            <th>Task</th>
+            <th>Competition Name</th>
+            <th>Field</th>
             <th>Rank</th>
             <th>Link</th>
         </tr>
@@ -105,6 +106,7 @@ cyberohx0831@gmail.com
 
 </body>
 </html>
+
 
 ### :bookmark_tabs: Paper
 
