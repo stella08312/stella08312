@@ -31,6 +31,7 @@ cyberohx0831@gmail.com
 <table>
     <thead>
         <tr>
+            <th>Date</th>
             <th>Organizer</th>
             <th>Competition Name</th>
             <th>Field</th>
