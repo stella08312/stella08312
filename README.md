@@ -11,6 +11,7 @@
  <br/>
  <br/>
 
+###   :mailbox_with_mail: Contact
   
 ####  :keyboard: Language
   
@@ -35,7 +36,6 @@
 </div>
 
 - 🔭 Interest ...
-- 🌱 Language ...
 - 📫 Contact: ...
 - 👯 Conference
 - 🤔 Competitions
