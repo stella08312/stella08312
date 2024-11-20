@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=300&section=header&text=Hello&nbsp;I'm&nbsp;SeoYeon&nbsp;Oh&fontSize=90&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=200&section=header&text=Hello&nbsp;I'm&nbsp;SeoYeon&nbsp;Oh&fontSize=80&animation=fadeIn" alt="header" />
 </div>
 
 
