@@ -41,8 +41,3 @@ cyberohx0831@gmail.com
   
 </div>
 
-- 🔭 Interest ...
-- 📫 Contact: ...
-- 👯 Conference
-- 🤔 Competitions
-- 💬 Journal
