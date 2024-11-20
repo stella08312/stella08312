@@ -5,7 +5,7 @@
 </div>
 
 
-####  :wave: Welcome my github profile !
+###  :wave: Welcome my github profile !
 
   
  <br/>
@@ -14,9 +14,9 @@
 ###  :mailbox_with_mail: Contact
 cyberohx0831@gmail.com
 
-#### :star: Interest
+### :star: Interest
 
-####  :keyboard: Language
+###  :keyboard: Language
   
 <div style="text-align: center;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -28,9 +28,9 @@ cyberohx0831@gmail.com
 </div>
 
 
-#### :trophy: Competitions
+### :trophy: Competitions
 
-#### :bookmark_tabs: Paper
+### :bookmark_tabs: Paper
 
  
 
