@@ -139,6 +139,13 @@ cyberohx0831@gmail.com
             <td>KDFS</td>
             <td>Development of Optical Character Recognition Model for Document Leak Investigation</td>
             <td>E.J.Jang, D.S.Kim, S.Y.Oh, J.S.Lee</td>
+            <td>학회장상</td>
+        </tr>
+      <tr>
+            <td>2023.1</td>
+            <td>KDFS</td>
+            <td>Effective Data Augmentaions for Fingerprint Recognition</td>
+            <td>D.S.Kim, J.S.Lee, S.Y.Oh</td>
             <td></td>
         </tr>
       <tr>
@@ -146,13 +153,34 @@ cyberohx0831@gmail.com
             <td>KDFS</td>
             <td>Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model</td>
             <td>J.S.Lee, D.S.Kim, S.Y.Oh</td>
-            <td>학회장상</td>
+            <td>해양경찰청장상</td>
         </tr>
       <tr>
             <td>2023.4</td>
             <td>JCCI</td>
             <td>Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification</td>
             <td>S.Y.Oh, J.S.Lee, D.S.Kim</td>
+            <td></td>
+        </tr>
+       <tr>
+            <td>2023.12</td>
+            <td>KDFS</td>
+            <td>Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform</td>
+            <td>H.Y.Seo, J.S.Lee, D.S.Kim, S.Y.Oh</td>
+            <td></td>
+        </tr>
+      <tr>
+            <td>2024.6</td>
+            <td>KCC</td>
+            <td>Steganalysis Learning Methods for Resolving Cover Source Mismatch Issues</td>
+            <td>S.Y.Oh, D.S.Kim, J.M.Min</td>
+            <td></td>
+        </tr>
+      <tr>
+            <td>2024.7</td>
+            <td>ICTC</td>
+            <td>Dual-Stream Dual-Backbone Architecture for HyperSpectral Face Anti-Spoofing</td>
+            <td>D.S.Kim, S.Y.Oh</td>
             <td></td>
         </tr>
     </tbody>
