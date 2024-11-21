@@ -203,7 +203,28 @@ cyberohx0831@gmail.com
 <br/>
 
 ### :bookmark: Project
- 
+<table>
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Name</th>
+            <th>Content</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2023.04.01~2023.12.31</td>
+            <td>실사용 환경 이미지 스테그어날리시스 난제 해결 방안 연구</td>
+            <td>최신 이미지 스테가노그라피 및 스테그어날리시스 기술 동향 파악, CSM 해결을 위한 커버/스테고 자동 생성 pipeline 기술 연구 </td>
+        </tr>
+      <tr>
+            <td>2024.01.01~2024.10.31</td>
+            <td>실사용 환경 이미지 스테그어날리시스 난제 해결 방안 연구</td>
+            <td>최신 이미지 스테가노그라피 및 스테그어날리시스 기술 동향 파악, CSM 문제에 강인한 딥러닝 모델 개발</td>
+        </tr>
+    </tbody>
+</table>
+<br/> 
 
  
 
