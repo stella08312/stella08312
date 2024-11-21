@@ -97,6 +97,7 @@ cyberohx0831@gmail.com
             <td>Face Anti Spoofing(FAS)</td>
             <td>AIM_Lab</td>  
             <td>3rd(3/19)</td>
+            <td></td>
             <td><a href="https://codalab.lisn.upsaclay.fr/competitions/17908#results" target="_blank">View Details</a></td>
         </tr>
     </tbody>
