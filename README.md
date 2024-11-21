@@ -130,16 +130,16 @@ cyberohx0831@gmail.com
             <th>Conference Name</th>
             <th>Paper Title</th>
             <th>Authors</th>
+            <th>Prize</th>
             <th>Link</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>2024-06-15</td>
-            <td>International AI Symposium</td>
-            <td>Deep Learning for OCR</td>
-            <td>SeoYeon Oh, John Doe</td>
-            <td><a href="https://example.com" target="_blank">View Paper</a></td>
+            <td>2022.12</td>
+            <td>KDFS</td>
+            <td>Development of Optical Character Recognition Model for Document Leak Investigation</td>
+            <td>E.J.Jang, D.S.Kim, S.Y.Oh, J.S.Lee</td>
         </tr>
         <tr>
             <td>2023-12-10</td>
