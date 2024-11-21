@@ -162,6 +162,13 @@ cyberohx0831@gmail.com
             <td>S.Y.Oh, J.S.Lee, D.S.Kim</td>
             <td></td>
         </tr>
+      <tr>
+            <td>2023.8</td>
+            <td>KCI</td>
+            <td>Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters</td>
+            <td>J.S.Lee, D.S.Kim, S.Y.Oh</td>
+            <td></td>
+        </tr>
        <tr>
             <td>2023.12</td>
             <td>KDFS</td>
@@ -170,10 +177,17 @@ cyberohx0831@gmail.com
             <td></td>
         </tr>
       <tr>
+            <td>2024.4</td>
+            <td>KCI</td>
+            <td>Effective Data Augmentations for Cross-Domain Fingerprint Recognition</td>
+            <td>D.S.Kim, J.S.Lee, S.Y.Oh</td>
+            <td></td>
+        </tr>
+      <tr>
             <td>2024.6</td>
             <td>KCC</td>
             <td>Steganalysis Learning Methods for Resolving Cover Source Mismatch Issues</td>
-            <td>S.Y.Oh, D.S.Kim, J.M.Min</td>
+            <td>D.S.Kim, S.Y.Oh, J.M.Min</td>
             <td></td>
         </tr>
       <tr>
