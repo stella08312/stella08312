@@ -51,7 +51,7 @@ cyberohx0831@gmail.com
             <td>Classification</td>
             <td>AIM.Lab.</td>  
             <td>1st(1/192)</td>
-            <td><a href="[https://dacon.io/competitions/official/235902/leaderboard]" target="_blank">View Details</a></td>
+            <td><a href="https://dacon.io/competitions/official/235902/leaderboard" target="_blank">View Details</a></td>
         </tr>
         <tr>
             <td>Global Hackathon</td>
