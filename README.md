@@ -69,6 +69,14 @@ cyberohx0831@gmail.com
             <td>특별상</td>
             <td></td>
         </tr>
+      <tr>
+            <td>Codalab</td>
+            <td>Snapshot Spectral Imaging Face Anti-spoofing Challenge Phase 1</td>
+            <td>Face Anti Spoofing(FAS)</td>
+            <td>AIM_Lab</td>  
+            <td>3rd(3/19)</td>
+            <td><a href="https://codalab.lisn.upsaclay.fr/competitions/17908#results" target="_blank">View Details</a></td>
+        </tr>
     </tbody>
 </table>
 <br/>
