@@ -68,7 +68,7 @@ cyberohx0831@gmail.com
             <td>한밭대학교 컴퓨터공학</td>
             <td>2022 컴퓨터공학과 포트폴리오경진대회</td>
             <td>Portfolio</td>
-            <td></td>  
+            <td>Personal</td>  
             <td></td>
             <td>수상</td>
             <td></td>
