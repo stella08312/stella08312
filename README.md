@@ -6,7 +6,7 @@
 <br/>
 
 ###  :wave: Welcome my github profile !
-저는 어쩌구~
+저는 국립한밭학교 컴퓨터공학과 4학년 오서연입니다.
 <br/>
 <br/>
 
