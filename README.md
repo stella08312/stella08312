@@ -67,7 +67,7 @@ cyberohx0831@gmail.com
             <td>OCR</td>
             <td>AIM</td>  
             <td>특별상</td>
-            <td><a target="_blank">View Details</a></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
