@@ -39,6 +39,7 @@ cyberohx0831@gmail.com
             <th>Organizer</th>
             <th>Name</th>
             <th>Field</th>
+            <th>Team</th>
             <th>Rank</th>
             <th>Link</th>
         </tr>
@@ -47,9 +48,10 @@ cyberohx0831@gmail.com
         <tr>
             <td>DACON</td>
             <td>SW중심대학 공동 AI 경진대회 <예선></td>
-            <td>Artificial Intelligence</td>
-            <td>1st Place</td>
-            <td><a href="https://example.com" target="_blank">View Details</a></td>
+            <td>Classification</td>
+            <td>AIM.Lab.</td>  
+            <td>1st(1/192)</td>
+            <td><a href="[https://example.com](https://dacon.io/competitions/official/235902/leaderboard)" target="_blank">View Details</a></td>
         </tr>
         <tr>
             <td>Global Hackathon</td>
