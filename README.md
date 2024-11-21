@@ -36,9 +36,8 @@ cyberohx0831@gmail.com
 <table>
     <thead>
         <tr>
-            <th>Date</th>
             <th>Organizer</th>
-            <th>Competition Name</th>
+            <th>Name</th>
             <th>Field</th>
             <th>Rank</th>
             <th>Link</th>
@@ -46,15 +45,13 @@ cyberohx0831@gmail.com
     </thead>
     <tbody>
         <tr>
-            <td>2024-06-15</td>
-            <td>Korea Programming Association</td>
-            <td>AI Coding Challenge</td>
+            <td>DACON</td>
+            <td>SW중심대학 공동 AI 경진대회 <예선></td>
             <td>Artificial Intelligence</td>
             <td>1st Place</td>
             <td><a href="https://example.com" target="_blank">View Details</a></td>
         </tr>
         <tr>
-            <td>2024-03-10</td>
             <td>Global Hackathon</td>
             <td>Hackathon 2024</td>
             <td>Web Development</td>
@@ -62,7 +59,6 @@ cyberohx0831@gmail.com
             <td><a href="https://example.com" target="_blank">View Details</a></td>
         </tr>
         <tr>
-            <td>2023-08-25</td>
             <td>Data Analysis Association</td>
             <td>Data Science Competition</td>
             <td>Data Analysis</td>
