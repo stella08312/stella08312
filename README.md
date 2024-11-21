@@ -65,12 +65,21 @@ cyberohx0831@gmail.com
             <td><a href="https://dacon.io/competitions/official/235970/leaderboard" target="_blank">View Details</a></td>
         </tr>
       <tr>
-            <td>한밭대학교 컴퓨터공학</td>
+            <td>한밭대학교 컴퓨터공학과</td>
             <td>2022 컴퓨터공학과 포트폴리오경진대회</td>
             <td>Portfolio</td>
             <td>Personal</td>  
             <td></td>
             <td>수상</td>
+            <td></td>
+        </tr>
+      <tr>
+            <td>한밭대학교</td>
+            <td>학습동아리 성과발표회</td>
+            <td>Study Club</td>
+            <td>PC</td>  
+            <td></td>
+            <td>우수상</td>
             <td></td>
         </tr>
         <tr>
