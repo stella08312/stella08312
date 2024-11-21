@@ -180,7 +180,7 @@ cyberohx0831@gmail.com
             <td>2024.4</td>
             <td>KCI</td>
             <td>Effective Data Augmentations for Cross-Domain Fingerprint Recognition</td>
-            <td>D.S.Kim, J.S.Lee, S.Y.Oh</td>
+            <td>J.S.Lee, D.S.Kim, S.Y.Oh</td>
             <td></td>
         </tr>
       <tr>
