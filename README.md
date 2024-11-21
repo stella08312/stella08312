@@ -131,7 +131,6 @@ cyberohx0831@gmail.com
             <th>Paper Title</th>
             <th>Authors</th>
             <th>Prize</th>
-            <th>Link</th>
         </tr>
     </thead>
     <tbody>
@@ -140,20 +139,21 @@ cyberohx0831@gmail.com
             <td>KDFS</td>
             <td>Development of Optical Character Recognition Model for Document Leak Investigation</td>
             <td>E.J.Jang, D.S.Kim, S.Y.Oh, J.S.Lee</td>
+            <td></td>
         </tr>
-        <tr>
-            <td>2023-12-10</td>
-            <td>Data Science Congress</td>
-            <td>A Novel Approach to Classification</td>
-            <td>SeoYeon Oh, Jane Smith</td>
-            <td><a href="https://example.com" target="_blank">View Paper</a></td>
+      <tr>
+            <td>2023.1</td>
+            <td>KDFS</td>
+            <td>Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model</td>
+            <td>J.S.Lee, D.S.Kim, S.Y.Oh</td>
+            <td>학회장상</td>
         </tr>
-        <tr>
-            <td>2022-08-25</td>
-            <td>Global ML Conference</td>
-            <td>Object Detection in Real-Time Applications</td>
-            <td>SeoYeon Oh, Alice Lee</td>
-            <td><a href="https://example.com" target="_blank">View Paper</a></td>
+      <tr>
+            <td>2023.4</td>
+            <td>JCCI</td>
+            <td>Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification</td>
+            <td>S.Y.Oh, J.S.Lee, D.S.Kim</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
