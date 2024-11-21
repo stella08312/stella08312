@@ -47,18 +47,19 @@ cyberohx0831@gmail.com
     <tbody>
         <tr>
             <td>DACON</td>
-            <td>SW중심대학 공동 AI 경진대회 <예선></td>
+            <td>SW중심대학 공동 AI 경진대회 예선</td>
             <td>Classification</td>
             <td>AIM.Lab.</td>  
             <td>1st(1/192)</td>
             <td><a href="https://dacon.io/competitions/official/235902/leaderboard" target="_blank">View Details</a></td>
         </tr>
         <tr>
-            <td>Global Hackathon</td>
-            <td>Hackathon 2024</td>
-            <td>Web Development</td>
-            <td>2nd Place</td>
-            <td><a href="https://example.com" target="_blank">View Details</a></td>
+            <td>DACON</td>
+            <td>SW중심대학 공동 AI 경진대회 본선</td>
+            <td>OCR</td>
+            <td>AIM.Lab.</td>  
+            <td>10th(10/77)</td>
+            <td><a href="https://dacon.io/competitions/official/235902/leaderboard" target="_blank">View Details</a></td>
         </tr>
         <tr>
             <td>Data Analysis Association</td>
