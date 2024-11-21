@@ -59,14 +59,15 @@ cyberohx0831@gmail.com
             <td>OCR</td>
             <td>AIM.Lab.</td>  
             <td>10th(10/77)</td>
-            <td><a href="https://dacon.io/competitions/official/235902/leaderboard" target="_blank">View Details</a></td>
+            <td><a href="https://dacon.io/competitions/official/235970/leaderboard" target="_blank">View Details</a></td>
         </tr>
         <tr>
-            <td>Data Analysis Association</td>
-            <td>Data Science Competition</td>
-            <td>Data Analysis</td>
-            <td>3rd Place</td>
-            <td><a href="https://example.com" target="_blank">View Details</a></td>
+            <td>나눔과 기술</td>
+            <td>2022 창의설계 온라인 경진대</td>
+            <td>OCR</td>
+            <td>AIM</td>  
+            <td>특별상</td>
+            <td><a target="_blank">View Details</a></td>
         </tr>
     </tbody>
 </table>
