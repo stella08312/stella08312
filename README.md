@@ -127,8 +127,8 @@ cyberohx0831@gmail.com
     <thead>
         <tr>
             <th>Date</th>
-            <th>Conference Name</th>
-            <th>Paper Title</th>
+            <th>Name</th>
+            <th>Title</th>
             <th>Authors</th>
             <th>Prize</th>
         </tr>
