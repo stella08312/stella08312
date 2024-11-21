@@ -74,7 +74,7 @@ cyberohx0831@gmail.com
             <td>Fake or Real: AI 생성 이미지 판별 경진대회</td>
             <td>Classification</td>
             <td>AIM</td>  
-            <td>5th(5/542)</td>
+            <td>SW중심대학협의회장상 5th(5/542)</td>
             <td></td>
         </tr>
       <tr>
@@ -82,7 +82,7 @@ cyberohx0831@gmail.com
             <td>SW중심대학 공동 AI 경진대회 2023</td>
             <td>Segmentation</td>
             <td>AIM</td>  
-            <td>11th(11/227)</td>
+            <td>SW중심대학협의회 회장상 9th(9/227)</td>
             <td><a href="https://www.dacon.io/competitions/official/236092/leaderboard" target="_blank">View Details</a></td>
         </tr>
       <tr>
