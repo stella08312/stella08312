@@ -1,231 +1,194 @@
-
-<!-- HeadLine -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=200&section=header&text=Hello&nbsp;I'm&nbsp;SeoYeon&nbsp;Oh&fontSize=80&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4F46E5&height=180&section=header&text=Seoyeon%20Oh&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Vision%20%7C%20Multimedia%20Security%20%7C%20Reliable%20AI&descAlignY=60&animation=fadeIn" alt="Seoyeon Oh header" />
 </div>
-<br/>
 
-###  :wave: Welcome my github profile !
-저는 국립한밭대학교 컴퓨터공학과 4학년 오서연입니다.<br/>
-현재 AIM.Lab. 학부연구생으로 석사 진학 예정입니다.
+<div align="center">
+  <h3>Master's Student in Computer Engineering · AIMLab</h3>
+  <p>
+    Hanbat National University<br/>
+    Advised by Prof. Haneol Jang
+  </p>
 
-<br/>
-
-### :star: Interest
-Multimedia Security, Computer Vision, Digital Forensics
-<br/>
-<br/>
-
-###  :mailbox_with_mail: Contact
-cyberohx0831@gmail.com
-<br/>
-<br/>
-
-###  :keyboard: Language
-<div style="text-align: center;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java Badge">
-  <img src="https://img.shields.io/badge/MATLAB-DA0530?style=for-the-badge&logo=MATLAB&logoColor=white" alt="MATLAB Badge">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white" alt="Numpy Badge">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" alt="Pandas Badge">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch Badge">
+  <a href="https://scholar.google.com/citations?hl=ko&user=mToVWRkAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
+  <a href="mailto:cyberohx0831@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
+
 <br/>
 
+## About Me
 
-### :trophy: Competitions
-<table>
-    <thead>
-        <tr>
-            <th>Organizer</th>
-            <th>Name</th>
-            <th>Field</th>
-            <th>Team</th>
-            <th>Rank</th>
-            <th>Prize</th>
-            <th>Link</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>DACON</td>
-            <td>SW중심대학 공동 AI 경진대회 예선</td>
-            <td>Classification</td>
-            <td>AIM.Lab.</td>  
-            <td>1st(1/192)</td>
-            <td></td>
-            <td><a href="https://dacon.io/competitions/official/235902/leaderboard" target="_blank">View Details</a></td>
-        </tr>
-        <tr>
-            <td>DACON</td>
-            <td>SW중심대학 공동 AI 경진대회 본선</td>
-            <td>OCR</td>
-            <td>AIM.Lab.</td>  
-            <td>10th(10/77)</td>
-            <td>SW중심대학협의회장상</td>
-            <td><a href="https://dacon.io/competitions/official/235970/leaderboard" target="_blank">View Details</a></td>
-        </tr>
-      <tr>
-            <td>한밭대학교 컴퓨터공학과</td>
-            <td>2022 컴퓨터공학과 포트폴리오경진대회</td>
-            <td>Portfolio</td>
-            <td>Personal</td>  
-            <td></td>
-            <td>수상</td>
-            <td></td>
-        </tr>
-      <tr>
-            <td>한밭대학교</td>
-            <td>학습동아리 성과발표회</td>
-            <td>Study Club</td>
-            <td>PC</td>  
-            <td></td>
-            <td>우수상</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>나눔과 기술</td>
-            <td>2022 창의설계 온라인 경진대회</td>
-            <td>OCR</td>
-            <td>AIM</td>  
-            <td></td>
-            <td>특별상</td>
-            <td></td>
-        </tr>
-       <tr>
-            <td>AI CONNECT</td>
-            <td>Fake or Real: AI 생성 이미지 판별 경진대회</td>
-            <td>Classification</td>
-            <td>AIM</td>  
-            <td>5th(5/542)</td>
-            <td>SW중심대학협의회장상</td>
-            <td></td>
-        </tr>
-      <tr>
-            <td>DACON</td>
-            <td>SW중심대학 공동 AI 경진대회 2023</td>
-            <td>Segmentation</td>
-            <td>AIM</td>  
-            <td>9th(9/227)</td>
-            <td>SW중심대학협의회 회장상</td>
-            <td><a href="https://www.dacon.io/competitions/official/236092/leaderboard" target="_blank">View Details</a></td>
-        </tr>
-      <tr>
-            <td>Codalab</td>
-            <td>Snapshot Spectral Imaging Face Anti-spoofing Challenge Phase 1</td>
-            <td>Face Anti Spoofing(FAS)</td>
-            <td>AIM_Lab</td>  
-            <td>3rd(3/19)</td>
-            <td></td>
-            <td><a href="https://codalab.lisn.upsaclay.fr/competitions/17908#results" target="_blank">View Details</a></td>
-        </tr>
-    </tbody>
-</table>
+I am a master's student in the Department of Computer Engineering at Hanbat National University and a researcher at the Artificial Intelligence & Media Lab. (AIMLab). My research lies at the intersection of computer vision, multimedia security, and reliable artificial intelligence.
+
+My recent work covers face anti-spoofing, image steganalysis, generated-image detection, medical image analysis, and deep learning for engineering applications.
+
+## Research Interests
+
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Vision-4F46E5?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Multimedia%20Security-6D28D9?style=flat-square" alt="Multimedia Security" />
+  <img src="https://img.shields.io/badge/Face%20Anti--Spoofing-7C3AED?style=flat-square" alt="Face Anti-Spoofing" />
+  <img src="https://img.shields.io/badge/Steganalysis-9333EA?style=flat-square" alt="Steganalysis" />
+  <img src="https://img.shields.io/badge/Medical%20Imaging-2563EB?style=flat-square" alt="Medical Imaging" />
+  <img src="https://img.shields.io/badge/Digital%20Forensics-0F766E?style=flat-square" alt="Digital Forensics" />
+</p>
+
+## Education
+
+| Period | Degree | Institution |
+|:--|:--|:--|
+| Mar. 2025 - Present | M.S. in Computer Engineering<br/>GPA: 4.50/4.50 | Hanbat National University<br/>Advisor: Prof. Haneol Jang |
+| Mar. 2021 - Feb. 2025 | B.S. in Computer Engineering<br/>GPA: 3.92/4.50 · Major GPA: 4.02/4.50 | Hanbat National University<br/>Advisor: Prof. Haneol Jang |
+
+## Publications
+
+### Peer-Reviewed Journal Articles
+
+1. **Analyzing the effect of reasoning-based supervision on face anti-spoofing**  
+   Jimin Min, Kyungtae Lim, Minjun Kim, Dongsu Kim, **Seoyeon Oh**, Eunkyung Kim, and Haneol Jang  
+   *Scientific Reports*, vol. 16, Article 13360, 2026.  
+   [[Paper](https://doi.org/10.1038/s41598-026-43800-5)]
+
+2. **PhaseNet: A Deep Learning Framework for Reflectarray Antenna Gain Prediction by Integrating 2D Phase Maps and Angular Embeddings**  
+   **Seoyeon Oh**, Seongmin Pyo, and Haneol Jang  
+   *Mathematics*, vol. 13, no. 21, Article 3509, 2025.  
+   [[Paper](https://doi.org/10.3390/math13213509)]
+
+3. **Improving Chest X-ray Image Classification Accuracy Using Contrastive Learning and Data Augmentation**  
+   Yeonju Kim, **Seoyeon Oh**, and Haneol Jang  
+   *Journal of IKEEE*, vol. 29, no. 3, pp. 289-296, 2025.  
+   [[Paper](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003244186)]
+
+4. **Effective Detection of Generated Images Using Frequency Transform**  
+   Hyoungwon Seo, Dongsu Kim, **Seoyeon Oh**, Jisang Lee, and Haneol Jang  
+   *Journal of KIISE*, vol. 52, no. 4, pp. 350-355, 2025.  
+   [[Paper](https://doi.org/10.5626/JOK.2025.52.4.350)]
+
+5. **Face anti-spoofing method using contrastive learning and color jittering**  
+   Dabin Kim, **Seoyeon Oh**, Dongsu Kim, Cheoneum Park, and Haneol Jang  
+   *Journal of Digital Forensics*, vol. 18, no. 5, pp. 40-49, 2024.  
+   [[Paper](https://doi.org/10.22798/KDFS.2024.18.5.40)]
+
+6. **Effective Data Augmentations for Cross-Domain Fingerprint Recognition**  
+   Dongsu Kim, **Seoyeon Oh**, Jisang Lee, and Haneol Jang  
+   *Journal of Digital Forensics*, vol. 18, no. 1, pp. 24-33, 2024.  
+   [[Paper](https://doi.org/10.22798/KDFS.2024.18.1.24)]
+
+7. **Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters**  
+   Jisang Lee, Dongsu Kim, **Seoyeon Oh**, and Haneol Jang  
+   *Journal of Digital Forensics*, vol. 17, no. 3, pp. 80-92, 2023.  
+   [[Paper](https://doi.org/10.22798/KDFS.2023.17.3.80)]
+
+<details>
+<summary><b>Conference Papers</b></summary>
+
 <br/>
 
-### :bookmark_tabs: Paper
-<table>
-    <thead>
-        <tr>
-            <th>Date</th>
-            <th>Name</th>
-            <th>Title</th>
-            <th>Authors</th>
-            <th>Prize</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>2022.12</td>
-            <td>KDFS</td>
-            <td>Development of Optical Character Recognition Model for Document Leak Investigation</td>
-            <td>E.J.Jang, D.S.Kim, S.Y.Oh, J.S.Lee</td>
-            <td>학회장상</td>
-        </tr>
-      <tr>
-            <td>2023.1</td>
-            <td>KDFS</td>
-            <td>Effective Data Augmentaions for Fingerprint Recognition</td>
-            <td>D.S.Kim, J.S.Lee, S.Y.Oh</td>
-            <td></td>
-        </tr>
-      <tr>
-            <td>2023.1</td>
-            <td>KDFS</td>
-            <td>Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model</td>
-            <td>J.S.Lee, D.S.Kim, S.Y.Oh</td>
-            <td>해양경찰청장상</td>
-        </tr>
-      <tr>
-            <td>2023.4</td>
-            <td>JCCI</td>
-            <td>Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification</td>
-            <td>S.Y.Oh, J.S.Lee, D.S.Kim</td>
-            <td></td>
-        </tr>
-      <tr>
-            <td>2023.8</td>
-            <td>KCI</td>
-            <td>Lightweight Technique for Forged Fingerprint Detection Using Ensemble Models and Median Filters</td>
-            <td>J.S.Lee, D.S.Kim, S.Y.Oh</td>
-            <td></td>
-        </tr>
-       <tr>
-            <td>2023.12</td>
-            <td>KDFS</td>
-            <td>Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform</td>
-            <td>H.Y.Seo, J.S.Lee, D.S.Kim, S.Y.Oh</td>
-            <td></td>
-        </tr>
-      <tr>
-            <td>2024.4</td>
-            <td>KCI</td>
-            <td>Effective Data Augmentations for Cross-Domain Fingerprint Recognition</td>
-            <td>J.S.Lee, D.S.Kim, S.Y.Oh</td>
-            <td></td>
-        </tr>
-      <tr>
-            <td>2024.6</td>
-            <td>KCC</td>
-            <td>Steganalysis Learning Methods for Resolving Cover Source Mismatch Issues</td>
-            <td>D.S.Kim, S.Y.Oh, J.M.Min</td>
-            <td></td>
-        </tr>
-      <tr>
-            <td>2024.7</td>
-            <td>ICTC</td>
-            <td>Dual-Stream Dual-Backbone Architecture for HyperSpectral Face Anti-Spoofing</td>
-            <td>D.S.Kim, S.Y.Oh</td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-<br/>
+1. **Block FFT-based Selective Frequency Augmentation for Subtle Lesion Detection**  
+   Yeonju Kim, **Seoyeon Oh**, Eunkyung Kim, and Haneol Jang  
+   *Korean Institute of Broadcast and Media Engineers Winter Conference*, 2025.  
+   [[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12571862)] · 🏆 Best Paper Award
 
-### :bookmark: Project
-<table>
-    <thead>
-        <tr>
-            <th>Date</th>
-            <th>Name</th>
-            <th>Content</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>2023.04.01~2023.12.31</td>
-            <td>실사용 환경 이미지 스테그어날리시스 난제 해결 방안 연구</td>
-            <td>최신 이미지 스테가노그라피 및 스테그어날리시스 기술 동향 파악, CSM 해결을 위한 커버/스테고 자동 생성 pipeline 기술 연구 </td>
-        </tr>
-      <tr>
-            <td>2024.01.01~2024.10.31</td>
-            <td>실사용 환경 이미지 스테그어날리시스 난제 해결 방안 연구</td>
-            <td>최신 이미지 스테가노그라피 및 스테그어날리시스 기술 동향 파악, CSM 문제에 강인한 딥러닝 모델 개발</td>
-        </tr>
-    </tbody>
-</table>
-<br/> 
+2. **Chest X-ray Image Classification Using Contrastive Learning and Data Augmentation**  
+   Yeonju Kim, **Seoyeon Oh**, Cheoneum Park, and Haneol Jang  
+   *Korean Institute of Broadcast and Media Engineers Summer Conference*, 2025.
 
- 
+3. **Dual-Stream Dual-Backbone Architecture for HyperSpectral Face Anti-Spoofing**  
+   Dongsu Kim, **Seoyeon Oh**, Cheoneum Park, and Haneol Jang  
+   *International Conference on ICT Convergence (ICTC)*, 2024.  
+   [[Paper](https://ieeexplore.ieee.org/document/10827355)]
 
+4. **Steganalysis Learning Methods for Resolving Cover Source Mismatch Issues**  
+   **Seoyeon Oh**, Dongsu Kim, Jimin Min, and Haneol Jang  
+   *Korea Computer Congress (KCC)*, 2024.
 
+5. **Face anti-spoofing method using contrastive learning and color jittering**  
+   Dabin Kim, **Seoyeon Oh**, Dongsu Kim, Cheoneum Park, and Haneol Jang  
+   *Korean Digital Forensic Society Summer Conference*, 2024.  
+   🏆 Best Paper Award
+
+6. **Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform**  
+   Hyoungwon Seo, Jisang Lee, Dongsu Kim, **Seoyeon Oh**, and Haneol Jang  
+   *Korean Digital Forensic Society Winter Conference*, 2023.  
+   🏆 Best Paper Award
+
+7. **Effective Data Augmentations for Fingerprint Recognition**  
+   Dongsu Kim, Jisang Lee, **Seoyeon Oh**, and Haneol Jang  
+   *Korean Digital Forensic Society Summer Conference*, 2023.
+
+8. **Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model**  
+   Jisang Lee, Dongsu Kim, **Seoyeon Oh**, and Haneol Jang  
+   *Korean Digital Forensic Society Summer Conference*, 2023.  
+   🏆 Commissioner General Award
+
+9. **Lightweight Deep Convolutional Neural Networks for Fine-Grained Leaf Classification**  
+   **Seoyeon Oh**, Jisang Lee, Dongsu Kim, and Haneol Jang  
+   *The 33rd Joint Conference on Communications and Information (JCCI)*, 2023.
+
+10. **Development of Optical Character Recognition Model for Document Leak Investigation**  
+    Eojin Jang, Jisang Lee, Dongsu Kim, **Seoyeon Oh**, and Haneol Jang  
+    *Korean Digital Forensic Society Winter Conference*, 2022.  
+    🏆 Best Paper Award
+
+</details>
+
+## Research Projects
+
+| Period | Project | Organization | Contributions |
+|:--|:--|:--|:--|
+| Oct. 2025 - Present | Advanced Research on Deep Learning Models for Single-Beam Reflectarray Antennas | Defense Core Technology Specialized Research Lab | Generated 2D reflectarray element-array datasets and developed deep learning models using phase-map data |
+| Apr. 2025 - Oct. 2025 | Research on ROI Extraction and Hidden-Region Inference Visualization for Steganalysis | National Security Research Institute | Studied deep learning-based ROI extraction and visualization methods for image steganalysis |
+| Jan. 2024 - Oct. 2024 | Research on Solutions to Challenges in Image Steganalysis under Real-World Usage Environments | National Security Research Institute | Investigated recent steganalysis methods and developed deep learning models robust to cover-source mismatch |
+| Apr. 2023 - Dec. 2023 | Research on Solutions to Challenges in Image Steganalysis under Real-World Usage Environments | National Security Research Institute | Studied image steganography/steganalysis and developed an automatic cover/stego generation pipeline |
+
+## Awards & Honors
+
+| Year | Award | Achievement |
+|:--:|:--|:--|
+| 2025 | Best Paper Award | *Block FFT-based Selective Frequency Augmentation for Subtle Lesion Detection* |
+| 2024 | Second Place | The 13th College of Information Technology Project Exhibition · Capstone Design |
+| 2024 | President's Award · Best Paper | *Face anti-spoofing method using contrastive learning and color jittering* |
+| 2023 | President's Award · Best Paper | *Effective Detection of Generated Images Using Fast Fourier Transform and Discrete Cosine Transform* |
+| 2023 | Commissioner General Award · Best Paper | *Lightweight Fingerprint Forgery Detection Technique Utilizing Median Filter and Ensemble Model* |
+| 2022 | President's Award · Best Paper | *Development of Optical Character Recognition Model for Document Leak Investigation* |
+| 2022 | President's Award | 2022 Creative Design Online Competition |
+| 2022 | Excellence Award | Study Club Performance Presentation |
+| 2022 | Award Winner | Department of Computer Engineering Portfolio Competition |
+
+## Competitions
+
+| Year | Competition | Task | Result | Link |
+|:--:|:--|:--|:--|:--:|
+| 2024 | Snapshot Spectral Imaging Face Anti-Spoofing Challenge · Phase 1 | Face Anti-Spoofing | **3rd / 19** | [View](https://codalab.lisn.upsaclay.fr/competitions/17908#results) |
+| 2023 | SW-Centered University Joint AI Competition | Satellite Image Segmentation | **9th / 227** · Chairman's Prize | [View](https://www.dacon.io/competitions/official/236092/leaderboard) |
+| 2023 | Fake or Real: AI-Generated Image Detection | Image Classification | **5th / 542** | - |
+| 2022 | SW-Centered University Joint AI Competition · Final | OCR | **10th / 77** · Chairman's Prize | [View](https://dacon.io/competitions/official/235970/leaderboard) |
+| 2022 | SW-Centered University Joint AI Competition · Preliminary | Classification | **1st / 192** | [View](https://dacon.io/competitions/official/235902/leaderboard) |
+
+## Teaching Experience
+
+| Period | Role | Course | Institution |
+|:--|:--|:--|:--|
+| Jul. 2025 - Dec. 2025 | Teaching Assistant | Introduction to Computer Convergence | Hanbat National University |
+| Jul. 2025 - Dec. 2025 | Teaching Assistant | Basic Programming | Hanbat National University |
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C and C++" />
+  <img src="https://img.shields.io/badge/MATLAB-EF6C00?style=flat-square" alt="MATLAB" />
+</p>
+
+---
+
+<div align="center">
+  <sub>Last updated: August 2026</sub>
+</div>
