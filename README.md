@@ -40,7 +40,7 @@ My recent work covers face anti-spoofing, image steganalysis, generated-image de
 
 | Period | Degree | Institution |
 |:--|:--|:--|
-| Mar. 2025 - Present | M.S. in Computer Engineering<br/>GPA: 4.50/4.50 | Hanbat National University<br/>Advisor: Prof. Haneol Jang |
+| Mar. 2025 - Present | M.S. in Computer Engineering<br/>GPA: 4.36/4.50 | Hanbat National University<br/>Advisor: Prof. Haneol Jang |
 | Mar. 2021 - Feb. 2025 | B.S. in Computer Engineering<br/>GPA: 3.92/4.50 · Major GPA: 4.02/4.50 | Hanbat National University<br/>Advisor: Prof. Haneol Jang |
 
 ## Publications
