@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4F46E5&height=180&section=header&text=Seoyeon%20Oh&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Vision%20%7C%20Multimedia%20Security%20%7C%20Reliable%20AI&descAlignY=60&animation=fadeIn" alt="Seoyeon Oh header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4F46E5&height=180&section=header&text=Seoyeon%20Oh&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Vision%20%7C%20Multimedia%20Security&descAlignY=60&animation=fadeIn" alt="Seoyeon Oh header" />
 </div>
 
 <div align="center">
